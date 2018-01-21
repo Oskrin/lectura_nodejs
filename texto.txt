@@ -1,0 +1,3 @@
+Una duda algo penosa nodeJs puede interactuar con el usurios si tiene su browser cerrado, esto solo con la idea si se pueden mandar tipo push al usuario teniendo el navegador cerrado.
+
+LAS PRUEBAS UNITARIAS SE LAS REALIZO CON MONCHA
